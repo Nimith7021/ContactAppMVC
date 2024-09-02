@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Training github\\ContactAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|d:\\c# training github\\contactappmvc\\contactappmvcapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\user\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\user\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\contactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\contactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\user\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\user\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\invalidoperations\\inactiveuseroperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\invalidoperations\\inactiveuseroperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\invalidoperations\\datanotfoundoperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\invalidoperations\\datanotfoundoperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\invalidoperations\\inactivecontactoperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\invalidoperations\\inactivecontactoperation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\controllers\\invalidoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\controllers\\invalidoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\createcontactdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\createcontactdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\editcontactdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\editcontactdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\staffview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\staffview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\staff\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\staff\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|D:\\C# Training github\\ContactAppMVC\\contactappmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6287FE-2E41-463E-8CFE-66148B7E425D}|ContactAppMVCApp\\ContactAppMVCApp.csproj|solutionrelative:contactappmvcapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\User\\LoginPage.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\LoginPage.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\User\\LoginPage.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:22:48.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminView.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\AdminView.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\User\\AdminView.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\AdminView.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\User\\AdminView.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:41:48.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetail.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Models\\ContactDetail.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\ContactDetail.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Models\\ContactDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:59:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetContactDetails.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\GetContactDetails.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\GetContactDetails.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\GetContactDetails.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\GetContactDetails.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:17:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Models\\Contact.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Models\\Contact.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:50:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Web.config",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Web.config",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Web.config",
+              "RelativeToolTip": "ContactAppMVCApp\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-02T11:22:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDetails.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\ContactDetails.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\ContactDetails.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\ContactDetails.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\ContactDetails.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T06:15:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataNotFoundOperation.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\DataNotFoundOperation.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\InvalidOperations\\DataNotFoundOperation.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\DataNotFoundOperation.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\InvalidOperations\\DataNotFoundOperation.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:08:43.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InactiveContactOperation.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\InactiveContactOperation.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\InvalidOperations\\InactiveContactOperation.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\InactiveContactOperation.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\InvalidOperations\\InactiveContactOperation.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T08:07:22.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InactiveUserOperation.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\InactiveUserOperation.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\InvalidOperations\\InactiveUserOperation.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\InvalidOperations\\InactiveUserOperation.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\InvalidOperations\\InactiveUserOperation.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T05:28:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAywBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:40:46.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwDoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:13:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateContactDetail.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\CreateContactDetail.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\CreateContactDetail.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\CreateContactDetail.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\CreateContactDetail.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:28:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditContactDetail.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\EditContactDetail.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\EditContactDetail.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\EditContactDetail.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\EditContactDetail.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:59:14.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvalidOperationsController.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\InvalidOperationsController.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Controllers\\InvalidOperationsController.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Controllers\\InvalidOperationsController.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Controllers\\InvalidOperationsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:28:04.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateContact.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\CreateContact.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\CreateContact.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\CreateContact.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\CreateContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T06:38:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Models\\User.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Models\\User.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:14:16.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffView.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\StaffView.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\StaffView.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\StaffView.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\StaffView.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:41:12.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditContact.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\EditContact.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\Staff\\EditContact.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\Staff\\EditContact.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\Staff\\EditContact.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T08:01:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\User\\EditUser.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\EditUser.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\User\\EditUser.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwEgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T05:16:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\Views\\User\\CreateUser.cshtml",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\Views\\User\\CreateUser.cshtml",
+              "RelativeToolTip": "ContactAppMVCApp\\Views\\User\\CreateUser.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T04:58:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ContactAppMVCApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\C# Training github\\ContactAppMVC\\ContactAppMVCApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ContactAppMVCApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:13:35.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
